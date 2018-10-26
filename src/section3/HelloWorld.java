@@ -8,7 +8,7 @@ System.out.println("Free Vbucks");
 JOptionPane.showMessageDialog(null,"Welcome to Vbuck Generator");
 String username = JOptionPane.showInputDialog(" What is your Fortnite Username and Password");
 System.out.println(username);
-JOptionPane.showMessageDialog(null,"Your Vbucks have been sent to" + username);
+JOptionPane.showMessageDialog(null,"Your Vbucks have been sent to " + username);
 }
 }
  
